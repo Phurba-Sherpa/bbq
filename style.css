@@ -230,4 +230,12 @@ input:focus {
         padding: 0 2em;
     }  
 
+    .intro-head {
+        margin-top: auto;
+        margin-bottom: .5em;
+    }
+    .intro-bottom {
+        margin-bottom: auto;    
+    }
+
 }
